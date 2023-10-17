@@ -8,6 +8,7 @@ The Doppler effect, named after Austrian physicist Christian Doppler, is the cha
 
 ![alt text](img/2-doppler-effect.jpeg)
 
+
 ## How Does this Arduino Project Demonstrate the Doppler Effect?
 This Arduino project offers a simplified visualization of the Doppler effect using an LED. The LED's brightness is adjusted to simulate the behavior of light from an object moving closer and farther away. As the LED appears to get brighter and dimmer, it provides a visual representation of the Doppler effect. Please note that this is a basic representation and does not account for frequency shifts that occur in actual Doppler effect phenomena.
 
